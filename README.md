@@ -24,6 +24,6 @@
 
 ![run_API](https://github.com/Morozhkaa/Project-TTS/blob/main/images/run_API.png)
 
-В первую очередь вам нужно проинициализировать TTS-model. Для этого нужно в конец URL дописать _/init_ и нажать _Enter_. Это займет некоторое время, после этого на экране вы увидите сообщение _"status": "init_result"_
+В первую очередь вам нужно проинициализировать TTS-model. Для этого нужно в конец URL дописать _/init_ и нажать _Enter_. Это займет некоторое время, после этого на экране вы увидите сообщение _"status": "successfully initialized"_
 
-![init](https://github.com/Morozhkaa/Project-TTS/blob/main/images/init.gif)
+![init](https://github.com/Morozhkaa/Project-TTS/blob/main/images/initialization.gif)
