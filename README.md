@@ -1,4 +1,18 @@
 # Project-TTS
+
+
+## API
+> Framework is ___[Fastapi](https://fastapi.tiangolo.com/)___
+
+<br>
+
+## Models
+>  TTS Model:  ___[En FastPitch](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/tts_en_fastpitch)___
+> 
+>  TTS Vocoder: ___[Hifigan](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/tts_hifigan)___
+
+<br>
+
 ## Руководство пользователя
 
 1.  Перейдите по ___[ссылке](https://drive.google.com/drive/folders/1UbTUgJIVP9jP7-jZf-0FMzGboQOuBRCL?usp=sharing)___ и скачайте файлы "last_checkpoint.ckpt"_(524 МБ)_ и "data.tar.gz"_(139 МБ)_.
@@ -20,7 +34,7 @@
 
 1).  Вы можете синтезировать речь прямо в блокноте. Для этого нужно передать текст, который вы хотите озвучить, в качестве параметра в функцию _infer_. Сделать это можно следующим образом:
 
-![get_audio](https://github.com/Morozhkaa/Project-TTS/blob/main/images/get_audio.png)
+![get_audio](https://github.com/Morozhkaa/Project-TTS/blob/main/images/get_audio.png width="375")
 
 <br>
 
