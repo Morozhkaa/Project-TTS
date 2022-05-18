@@ -30,12 +30,12 @@
 
 1).  Вы можете синтезировать речь прямо в блокноте. Для этого нужно передать текст, который вы хотите озвучить, в качестве параметра в функцию _infer_. Сделать это можно следующим образом:
 
-<img src="https://github.com/Morozhkaa/Project-TTS/blob/main/images/get_audio.png" width="550">
+<p><img src="https://github.com/Morozhkaa/Project-TTS/blob/main/images/get_audio.png" width="550"></p>
 
 
 2). Либо, после выполнения еще нескольких блоков кода, вы сможете запустить FastAPI следующей командой (затем надо будет перейти по _Public URL_):
 
-<img src="https://github.com/Morozhkaa/Project-TTS/blob/main/images/run_API.png" width="550">
+<p><img src="https://github.com/Morozhkaa/Project-TTS/blob/main/images/run_API.png" width="550"></p>
 
 * В первую очередь вам нужно проинициализировать TTS-model. Для этого нужно в конец URL дописать _/init_ и нажать _Enter_. Это займет некоторое время, после чего на экране вы увидите сообщение _"status": "successfully initialized"_
 
