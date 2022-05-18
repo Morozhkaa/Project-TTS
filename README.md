@@ -39,8 +39,12 @@
 
 * В первую очередь вам нужно проинициализировать TTS-model. Для этого нужно в конец URL дописать _/init_ и нажать _Enter_. Это займет некоторое время, после чего на экране вы увидите сообщение _"status": "successfully initialized"_
 
-![init](https://github.com/Morozhkaa/Project-TTS/blob/main/images/initialization.gif)
+<p align="center"><img src="https://github.com/Morozhkaa/Project-TTS/blob/main/images/initialization.gif" width="550"></p>
 
 * Отлично! Теперь, дописав в конец URL команду вида _synthesize/any text_ вы получите синтезированную речь с возможностью скачивания и изменения скорости. Пример:
 
 ![synthesize](https://github.com/Morozhkaa/Project-TTS/blob/main/images/synthesis_process.gif)
+
+<br>
+
+Более подробный видео-обзор по ___[ссылке]___(https://drive.google.com/file/d/1T8HuSW9i1hq-9Oz_jWbKOGQmM92642Q9/view?usp=sharing)
