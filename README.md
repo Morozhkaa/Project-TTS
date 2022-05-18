@@ -1,5 +1,5 @@
 # Project-TTS
-## Использование
+## Руководство пользователя
 
 1.  Перейдите по ___[ссылке](https://drive.google.com/drive/folders/1UbTUgJIVP9jP7-jZf-0FMzGboQOuBRCL?usp=sharing)___ и скачайте файлы "last_checkpoint.ckpt"_(524 МБ)_ и "data.tar.gz"_(139 МБ)_.
 
