@@ -11,4 +11,4 @@
     
 Затем нужно будет загрузить архив с данными. Откройте панель слева, нажмите на "загрузить файлы" и добавьте ранее скачанные "data.tar.gz", "test_audio.wav". Загрузка займет некоторое время.
 
-![загрузка данных](https://github.com/Morozhkaa/Project-TTS/blob/main/images/data%20loading.jpg)
+![загрузка данных](https://github.com/Morozhkaa/Project-TTS/blob/main/images/data%20loading.jpg](https://github.com/Morozhkaa/Project-TTS/blob/main/images/data_loading.gif)
