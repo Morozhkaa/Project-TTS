@@ -34,7 +34,7 @@
 
 1).  Вы можете синтезировать речь прямо в блокноте. Для этого нужно передать текст, который вы хотите озвучить, в качестве параметра в функцию _infer_. Сделать это можно следующим образом:
 
-![get_audio](https://github.com/Morozhkaa/Project-TTS/blob/main/images/get_audio.png width="375")
+<img src="https://github.com/Morozhkaa/Project-TTS/blob/main/images/get_audio.png" width="400">
 
 <br>
 
